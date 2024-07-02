@@ -1,5 +1,6 @@
 <h1 align="left">Hi, Hello. My name is Arris, and I am a web developer.</h1>
-<h2 alight="middle'>I mainly enjoying using React.js, and Next.js alongside TailwindCSS</h2>
+<h2 alight="middle"'>I mainly enjoying using React.js, and Next.js alongside TailwindCSS</h2>
+
 
 ###
 
